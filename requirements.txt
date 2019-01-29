@@ -22,7 +22,6 @@ pytest-cov~=2.6.1
 
 jsonschema~=2.6.0
 python-dateutil~=2.7.5
-pyyaml~=3.13
 redis~=3.0.1
 avro-python3
 pyspark>=2.2.0
