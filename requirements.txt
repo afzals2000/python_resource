@@ -1,0 +1,30 @@
+# GOOGLE LIBRARIES
+
+# https://github.com/googleapis/google-api-python-client/blob/master/CHANGELOG
+google_api_python_client~=1.7.7
+# https://github.com/googleapis/google-cloud-python/blob/master/bigquery/CHANGELOG.md
+google-cloud-bigquery~=1.8.1
+# https://github.com/googleapis/google-cloud-python/blob/master/logging/CHANGELOG.md
+google-cloud-logging~=1.9.1
+# https://github.com/googleapis/google-cloud-python/blob/master/pubsub/CHANGELOG.md
+google-cloud-pubsub~=0.39.1
+# https://github.com/googleapis/google-cloud-python/blob/master/storage/CHANGELOG.md
+google-cloud-storage~=1.13.2
+
+
+# API
+flask~=1.0.2
+flask-restful~=0.3.6
+
+# TESTING
+pytest~=4.1.0
+pytest-cov~=2.6.1
+
+jsonschema~=2.6.0
+python-dateutil~=2.7.5
+pyyaml~=3.13
+redis~=3.0.1
+avro-python3
+pyspark>=2.2.0
+requests
+oauth2client
